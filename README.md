@@ -44,8 +44,8 @@ you can know more accessing their website [here](https://selenium-python.readthe
 To get started, you need to enter in the folder "python" and follow these next steps.
 
 You need to have "pip" package installed on your computer, then create a python virtual environment,
-if you don't know how to do it, you can follow this doc from python: 
-[Python guide](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+if you don't know how to do it, you can follow this doc from python org: 
+[Python guide to Use Pip and Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
 After create the virtual environment and activate it, you need to install the packages that are
 in requirements.txt, using this command:
